@@ -1,0 +1,4 @@
+MONGO_USR=jnml
+MONGO_PWD=javier
+MONGO_URI=cluster0.zm5cfu0.mongodb.net
+DB_NAME=basedatos
